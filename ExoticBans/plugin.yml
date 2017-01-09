@@ -1,0 +1,10 @@
+name: ExoticBans
+version: 1.0
+main: net.rawgamer.exoticbans.Main
+commands:
+    ban:
+        description: Ban specific players
+    unban:
+        description: Unban specific players
+    kick:
+        description: Kick specific players

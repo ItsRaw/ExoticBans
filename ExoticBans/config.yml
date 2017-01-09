@@ -1,0 +1,10 @@
+pluginPrefix: "&a(&cExotic&4&lBANS&a)&b "
+
+banMSG: "%prefix%&cYou have been banned."
+banFormat: "%prefix% You have been banned for, %reason%"
+
+banBROAD: "%prefix%&6%player% &bwas banned by &6%admin%&b for &6%reason%"
+
+kickMSG: "%prefix%%reason%"
+
+kickBROAD: "%prefix%&6%player% &bwas kicked by &6%admin%&b for &6%reason%"
